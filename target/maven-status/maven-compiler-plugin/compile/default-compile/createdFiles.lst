@@ -1,0 +1,5 @@
+com\fetch\receipt\model\Receipt.class
+com\fetch\receipt\service\ReceiptService.class
+com\fetch\receipt\controller\receiptController.class
+com\fetch\receipt\ReceiptApplication.class
+com\fetch\receipt\model\Item.class
